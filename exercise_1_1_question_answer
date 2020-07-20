@@ -1,0 +1,20 @@
+1- 
+
+MVC 
+
+model view controller
+model - all database activities done
+view - used for view user interface
+controller - logic and database intraction 
+
+
+I have to work with laravel framework
+
+So first I have install laravel framework structure after I have make connection .env file like username, password, database 
+
+my connection is establisted after that
+
+
+
+
+
